@@ -1,13 +1,12 @@
-Username Availability Checker — GitHub Release Pack
+Username Availability Checker
 
 **Project name:** Username Availability Checker
-**Author:** ml-ftt
-**Language:** Python
+**Author:** ViRuS-HaCkEr
 **Interface:** GUI (Tkinter)
 
 ---
 
-## 🧩 Overview
+## 🧩 Overview :
 
 A simple, open-source GUI tool to check **username availability** across major social platforms:
 
@@ -21,7 +20,7 @@ It uses HTTP requests to test the existence of public profile URLs and infers av
 
 ---
 
-## ⚙️ Features
+## ⚙️ Features :
 
 * ✅ Checks username availability across multiple platforms
 * 🖥️ GUI interface built with Tkinter (dark green theme)
@@ -33,7 +32,7 @@ It uses HTTP requests to test the existence of public profile URLs and infers av
 
 ---
 
-## 🔒 Privacy & Safety
+## 🔒 Privacy & Safety :
 
 * The tool does **not** collect or store any data.
 * All requests are read-only to public URLs.
@@ -41,7 +40,7 @@ It uses HTTP requests to test the existence of public profile URLs and infers av
 
 ---
 
-## 💻 Installation
+## 💻 Installation :
 
 ```bash
 pip install requests
@@ -99,12 +98,11 @@ python username_availability_checker.py
 
 ---
 
-## 📘 License
+## 📘 License :
 
-```
 MIT License
 
-Copyright (c) 2025 ml-ftt
+Copyright (c) 2025
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -123,11 +121,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
-
----
-
-## 📢 Promotion Copy (for GitHub or social post)
-
-> **Username Availability Checker** — Check your favorite usernames instantly across Snapchat, Twitter, Instagram, Telegram (and more soon).
-> 💡 100% local | No login | Open-source | Built by **ml-ftt**
