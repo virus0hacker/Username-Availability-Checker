@@ -49,7 +49,7 @@ python username_availability_checker.py
 
 ---
 
-## 🧠 How It Works
+## 🧠 How It Works :
 
 Each platform is checked using its public profile URL pattern:
 
@@ -64,7 +64,7 @@ The app respects delays between requests (configurable) to avoid rate limits.
 
 ---
 
-## 📦 Output Example
+## 📦 Output Example :
 
 ```json
 {
@@ -82,7 +82,7 @@ You can export results as CSV or JSON via the GUI buttons.
 
 ---
 
-## 🧰 Technical Details
+## 🧰 Technical Details :
 
 **Dependencies:**
 
