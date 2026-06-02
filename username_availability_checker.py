@@ -133,7 +133,7 @@ def check_username(username, platforms, delay_per_request=DEFAULT_DELAY, timeout
 class UsernameCheckerGUI:
     def __init__(self, root):
         self.root = root
-        root.title("Username Availability Checker — snap: ml-ftt")
+        root.title("Username Availability Checker — Twitter: @h3fq1")
         root.configure(bg=WINDOW_BG)
         root.geometry("920x640")
 
@@ -149,7 +149,7 @@ class UsernameCheckerGUI:
         ).pack()
         tk.Label(
             banner,
-            text="snap: ml-ftt",
+            text="Twitter: @h3fq1",
             font=("Segoe UI", 10),
             bg=BANNER_BG,
             fg="#9fe59f"
